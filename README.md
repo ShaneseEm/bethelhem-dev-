@@ -12,6 +12,7 @@
 - Committed to increasing tech access and equity for women in Ethiopia and beyond  
 - I want to influence the tech world by driving innovation and inspiring others  
 
+
 ---
 
 ## 🛠 Tech Stack
@@ -44,6 +45,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
+
 
 ### **Mobile & Tools**
 
@@ -109,5 +111,6 @@ If you enjoy my work, consider supporting me! 💛
 ---
 
 *“Empowering women through technology is not just my passion, it’s my mission.”*
+
 
 
