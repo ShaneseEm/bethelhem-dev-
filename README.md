@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
