@@ -73,6 +73,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bethelhem-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
+
 </div>
 
 ---
@@ -93,7 +94,7 @@ If you enjoy my work, consider supporting me! 💛
   <h3>☕️ Buy Me A Coffee</h3>
   <p>If you like what I do, consider supporting me. Your support motivates me to create more! 😊</p>
 
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.buymeacoffee.com/ShaneseEm" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 
