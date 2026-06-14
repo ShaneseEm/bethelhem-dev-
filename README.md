@@ -94,7 +94,7 @@ If you enjoy my work, consider supporting me! 💛
   <h3>☕️ Buy Me A Coffee</h3>
   <p>If you like what I do, consider supporting me. Your support motivates me to create more! 😊</p>
 
-  <a href="https://www.buymeacoffee.com/ShaneseEm" target="_blank">
+  <a href="buymeacoffee.com/shanese17" target="_blank" >
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7CA88?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 
