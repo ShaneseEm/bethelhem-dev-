@@ -1,7 +1,8 @@
-# Hi there, I'm Shanese 
+# Hi there, I'm Bethelhem 
 
-💻 Backend Developer | MERN & API Development Enthusiast  
-   Passionate about empowering women in tech | @ALX_Africa student  | Software Engineering ScholarShip Student @AASTU
+💻 Backend Developer | MERN Stack & API Development Enthusiast
+🎓 Software Engineering Student at AASTU 
+🌍 Advocating for women in technology and digital innovation
 
 ---
 
