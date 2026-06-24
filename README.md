@@ -1,7 +1,9 @@
 # Hi there, I'm Bethelhem 
 
-💻 Backend Developer | MERN Stack & API Development Enthusiast
+💻 Software Developer | Web Applications & AI Solutions | Backend Developer
+
 🎓 Software Engineering Student at AASTU 
+
 🌍 Advocating for women in technology and digital innovation
 
 ---
